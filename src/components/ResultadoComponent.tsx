@@ -90,7 +90,7 @@ function Resultado() {
               .map((item) => item.valor),
           },
         ]}
-        width={1000}
+        width={1200}
         height={350}
       />
         <div className="container mt-4">
@@ -129,7 +129,7 @@ function Resultado() {
               .map((item) => item.valor),
           },
         ]}
-        width={1000}
+        width={1200}
         height={350}
       />
       </section>
